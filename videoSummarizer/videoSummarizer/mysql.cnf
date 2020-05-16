@@ -1,0 +1,6 @@
+[client]
+database = VideoSummarizer
+host = localhost
+user = root
+password = darklord
+default-character-set = utf8
